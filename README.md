@@ -11,3 +11,11 @@ A library with Ray Marching nodes for Material Maker
 6. Click "Manage Libraries" -> "Load Library" -> Choose the saved json file
 
 That's it! :)
+
+## Examples
+
+### Material Maker Experiment 001
+
+[![Material Maker Experiment 001](https://img.youtube.com/vi/7_QUPToUcjM/0.jpg)](https://www.youtube.com/watch?v=7_QUPToUcjM)
+
+ShaderToy - https://www.shadertoy.com/view/fdsXWX
