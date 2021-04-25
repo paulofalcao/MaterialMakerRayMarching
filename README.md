@@ -16,9 +16,6 @@ That's it! :)
 
 ### Material Maker Experiment 001
 
-[![Material Maker Experiment 001](https://img.youtube.com/vi/7_QUPToUcjM/0.jpg)](https://www.youtube.com/watch?v=7_QUPToUcjM)
-
-* Making-of - https://www.youtube.com/watch?v=7_QUPToUcjM
 * ShaderToy - https://www.shadertoy.com/view/fdsXWX
 * MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)
   * Just copy paste the code and the graph will appear, or save the file and use "Edit"->"Load Selection"
