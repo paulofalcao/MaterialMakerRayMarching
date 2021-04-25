@@ -20,4 +20,5 @@ That's it! :)
 
 * YouTube making-of - https://www.youtube.com/watch?v=7_QUPToUcjM
 * ShaderToy - https://www.shadertoy.com/view/fdsXWX
-* MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)  
+* MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)
+  * Just copy paste the code and the graph will appear, or save the file and use "Edit"->"Load Selection"
