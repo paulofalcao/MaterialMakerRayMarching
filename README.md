@@ -18,4 +18,6 @@ That's it! :)
 
 [![Material Maker Experiment 001](https://img.youtube.com/vi/7_QUPToUcjM/0.jpg)](https://www.youtube.com/watch?v=7_QUPToUcjM)
 
-ShaderToy - https://www.shadertoy.com/view/fdsXWX
+* YouTube making-of - https://www.youtube.com/watch?v=7_QUPToUcjM
+* ShaderToy - https://www.shadertoy.com/view/fdsXWX
+* MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)  
