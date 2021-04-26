@@ -21,7 +21,7 @@ And follow my twitter https://twitter.com/paulofalcao for news about this librar
 ## Examples
 
 ### Material Maker Experiment 001
-![pxf001](Examples/pxf001.jpg)
+![pxf001](Examples/pxf001_large.jpg)
 * ShaderToy - https://www.shadertoy.com/view/fdsXWX
 * MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)
   * Just copy paste the code and the graph will appear, or save the file and use "Edit"->"Load Selection"
