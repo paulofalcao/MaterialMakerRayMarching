@@ -12,6 +12,9 @@ A library with Ray Marching nodes for Material Maker
 
 That's it! :)
 
+Here is a view playing with it https://www.youtube.com/watch?v=7_QUPToUcjM
+Also subscribe my YouTube channel and follow my twitter @paulofalcao for news about it! :)
+
 ## Examples
 
 ### Material Maker Experiment 001
