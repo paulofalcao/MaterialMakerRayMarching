@@ -14,7 +14,7 @@ That's it! :)
 
 Here is a view playing with it https://www.youtube.com/watch?v=7_QUPToUcjM
 
-Also subscribe my YouTube channel https://www.youtube.com/channel/UCgU3v3BDnrs2C7SQyf-kzGg
+Subscribe my YouTube channel https://www.youtube.com/channel/UCgU3v3BDnrs2C7SQyf-kzGg for videos about Material Maker and this library
 
 And follow my twitter https://twitter.com/paulofalcao for news about this library
 
