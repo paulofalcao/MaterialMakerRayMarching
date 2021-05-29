@@ -20,8 +20,22 @@ And follow my twitter https://twitter.com/paulofalcao for news about this librar
 
 ## Examples
 
+Just copy paste the mms code and the graph will appear, or save the file and use "Edit"->"Load Selection"
+
+### Material Maker Experiment 003
+![pxf003](Examples/pxf003_large.jpg)
+* YouTube making - https://www.youtube.com/watch?v=VzV9zOzzUVA
+* ShaderToy - https://www.shadertoy.com/view/NdSSRy
+* MaterialMaker Selection File - [pxf002.mms ](Examples/pxf003.mms)
+
+### Material Maker Experiment 002
+![pxf002](Examples/pxf002_large.jpg)
+* YouTube making - https://www.youtube.com/watch?v=VzV9zOzzUVA
+* ShaderToy - https://www.shadertoy.com/view/NsBXzG
+* MaterialMaker Selection File - [pxf002.mms ](Examples/pxf002.mms)
+
 ### Material Maker Experiment 001
 ![pxf001](Examples/pxf001_large.jpg)
 * ShaderToy - https://www.shadertoy.com/view/fdsXWX
 * MaterialMaker Selection File - [pxf001.mms ](Examples/pxf001.mms)
-  * Just copy paste the code and the graph will appear, or save the file and use "Edit"->"Load Selection"
+
