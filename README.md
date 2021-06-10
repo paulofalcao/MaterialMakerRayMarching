@@ -12,7 +12,11 @@ A library with Ray Marching nodes for Material Maker
 
 That's it! :)
 
-Here is a video playing with it https://www.youtube.com/watch?v=7_QUPToUcjM
+Here are some videos playing with it
+* https://www.youtube.com/watch?v=xnCdJ1hLLPk
+* https://www.youtube.com/watch?v=27V8FOGmohQ
+* https://www.youtube.com/watch?v=-1x-dFD695g
+* https://www.youtube.com/watch?v=jxojcXgRkbM
 
 Subscribe my YouTube channel https://www.youtube.com/channel/UCgU3v3BDnrs2C7SQyf-kzGg for videos about Material Maker and this library
 
