@@ -1,6 +1,7 @@
 # MaterialMakerRayMarching
 
-A library with Ray Marching nodes for Material Maker
+This is a library with Ray Marching nodes for Material Maker
+Make complex Ray Marching SDF objects using nodes with the Material Maker editor and this library
 
 ## Install
 
