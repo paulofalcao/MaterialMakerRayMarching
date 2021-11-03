@@ -14,7 +14,12 @@ Make complex Ray Marching SDF objects using nodes with the Material Maker editor
 
 That's it! :)
 
-Here are some videos playing with it
+Here you can find a 2 hours seminar using version 0.03
+ * https://www.youtube.com/watch?v=PvmIohbf93Q
+
+![Inercia2021](Examples/Inercia2021_comp.jpg)
+
+Here are some more videos playing with it
 * https://www.youtube.com/watch?v=xnCdJ1hLLPk
 * https://www.youtube.com/watch?v=27V8FOGmohQ
 * https://www.youtube.com/watch?v=-1x-dFD695g
