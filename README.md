@@ -8,7 +8,7 @@ Make complex Ray Marching SDF objects using nodes with the Material Maker editor
 
 1. Download MaterialMaker from https://rodzilla.itch.io/material-maker
 2. Install MaterialMaker
-3. Download [MaterialMakerPauloFalcaoLib - v0.03.json](https://github.com/paulofalcao/MaterialMakerRayMarching/raw/main/MaterialMakerPauloFalcaoLib%20-%20v0.03.json) file, and save the file wherever you like
+3. Download [MaterialMakerPauloFalcaoLib - v0.04.json](https://github.com/paulofalcao/MaterialMakerRayMarching/raw/main/MaterialMakerPauloFalcaoLib%20-%20v0.04.json) file, and save the file wherever you like
 5. Run MaterialMaker
 6. Click "Manage Libraries" -> "Load Library" -> Choose the saved json file
 
