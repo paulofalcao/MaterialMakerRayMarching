@@ -14,6 +14,12 @@ Make complex Ray Marching SDF objects using nodes with the Material Maker editor
 
 That's it! :)
 
+Here you can find a 1 hour seminar using version 0.04
+ * https://www.youtube.com/watch?v=EKTZ593LS4A
+
+![image](https://user-images.githubusercontent.com/7521632/200113955-02ee8aa0-c454-45c9-8090-30adac385225.png)
+
+
 Here you can find a 2 hours seminar using version 0.03
  * https://www.youtube.com/watch?v=PvmIohbf93Q
 
