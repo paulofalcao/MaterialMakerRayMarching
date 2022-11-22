@@ -39,6 +39,11 @@ And follow my twitter https://twitter.com/paulofalcao for news about this librar
 
 Just copy paste the mms code and the graph will appear, or save the file and use "Edit"->"Load Selection"
 
+### Soft Dip
+![SoftDip](Examples/SoftDip.jpg)
+* Shadertoy - https://www.shadertoy.com/view/mdXXWM
+* MaterialMaker File - https://www.materialmaker.org/material?id=577
+
 ### Material Maker Experiment 007
 ![pxf007](Examples/pxf007_large.jpg)
 * YouTube making - https://youtu.be/xnCdJ1hLLPk?t=461
