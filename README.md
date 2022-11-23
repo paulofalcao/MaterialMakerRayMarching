@@ -43,6 +43,7 @@ Just copy paste the mms code and the graph will appear, or save the file and use
 ![SoftDip](Examples/SoftDip.jpg)
 * Shadertoy - https://www.shadertoy.com/view/mdXXWM
 * MaterialMaker File - https://www.materialmaker.org/material?id=577
+* YouTube playing - https://www.youtube.com/watch?v=uBpX1CG28c4
 
 ### Material Maker Experiment 007
 ![pxf007](Examples/pxf007_large.jpg)
