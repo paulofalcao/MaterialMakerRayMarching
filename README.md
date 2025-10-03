@@ -10,9 +10,17 @@ Make complex Ray Marching SDF objects using nodes with the Material Maker editor
 2. Install MaterialMaker
 3. Download [MM_PauloFalcao_RayMarchingLib_v0_06.json](https://raw.githubusercontent.com/paulofalcao/MaterialMakerRayMarching/main/MM_PauloFalcao_RayMarchingLib_v0_06.json) file, and save the file wherever you like
 5. Run MaterialMaker
-6. Click "Manage Libraries" -> "Load Library" -> Choose the saved json file
+6. Click the gear icon ⚙️ next to "Filter" on the "Libray" tab  -> "Load Library" -> Choose the saved json file
 
 That's it! :)
+
+**You can make a shadertoy in 1 minute** 😁
+* Drag the "PF->MFSDF->Render Template" to the workspace
+* Add a Debug node in the output
+* Click "Show shader" and copy the shader to Shadertoy
+
+![image](https://github.com/user-attachments/assets/d0eaef8c-fa8f-4851-9fb2-ad312bd55642)
+
 
 Here you can find a 1 hour seminar using version 0.04
  * https://www.youtube.com/watch?v=EKTZ593LS4A
